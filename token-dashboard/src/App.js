@@ -198,7 +198,7 @@ const WelcomePage = ({ onNavigate, loggedIn }) => {
   return (
     <div className="welcome-page"
       style={{
-        backgroundImage: "url('/backgrounds/Home page background_4.jpg')",
+        backgroundImage: "url('/backgrounds/Dashboard background.webp')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         minHeight: '100vh',
