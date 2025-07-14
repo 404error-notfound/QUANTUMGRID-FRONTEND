@@ -142,7 +142,7 @@ const RegistrationPage = ({ onNavigate, onRegister }) => {
   };
   return (
     <div className="registration-page" style={{
-      backgroundImage: "url('/backgrounds/Registration page.png')",
+      backgroundImage: "url('/backgrounds/Dashboard background.webp')",
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       minHeight: '100vh'
